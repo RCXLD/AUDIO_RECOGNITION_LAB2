@@ -1,0 +1,9 @@
+#ABNF 1.0;
+
+language zh-CN;
+mode voice;
+root $main;
+
+public $main =  科大讯飞 | 软件学院  ;
+
+
